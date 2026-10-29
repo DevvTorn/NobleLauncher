@@ -1,0 +1,11 @@
+build/
+dist/
+release/
+.env
+*.user
+*.log
+aqtinstall.log
+CMakeUserPresets.json
+.vs/
+.idea/
+out/

@@ -1,0 +1,730 @@
+{
+  "updatedAt": "2026-10-29",
+  "builds": [
+    {
+      "id": "nvidia-mid",
+      "name": "Noble NVIDIA · Средние ПК",
+      "author": "Noble Launcher",
+      "description": "Сбалансированный набор для NVIDIA: Sodium, Lithium, Krypton и оптимизация загрузки чанков. Стабильный FPS без потери ванильной картинки.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/nvidia-mid.png",
+      "icon": "qrc:/assets/noble-builds/icons/nvidia-mid.png",
+      "archiveUrl": "qrc:/assets/noble-builds/nvidia-mid.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Krypton 0.2.8",
+        "v3.11.4",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Krypton 0.2.8",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "nvidia-low",
+      "name": "Noble NVIDIA · Слабые ПК",
+      "author": "Noble Launcher",
+      "description": "Для старых NVIDIA: меньше нагрузка на CPU, агрессивная оптимизация рендера и памяти. Подходит для 4–8 ГБ RAM.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/nvidia-low.png",
+      "icon": "qrc:/assets/noble-builds/icons/nvidia-low.png",
+      "archiveUrl": "qrc:/assets/noble-builds/nvidia-low.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1",
+        "v3.11.4",
+        "v1.0.10"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "amd-mid",
+      "name": "Noble AMD · Средние ПК",
+      "author": "Noble Launcher",
+      "description": "Оптимизация для AMD Radeon: стабильный кадровый тайминг, быстрый рендер и меньше микрофризов в открытом мире.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/amd-mid.png",
+      "icon": "qrc:/assets/noble-builds/icons/amd-mid.png",
+      "archiveUrl": "qrc:/assets/noble-builds/amd-mid.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Krypton 0.2.8",
+        "v3.11.4",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Krypton 0.2.8",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "amd-low",
+      "name": "Noble AMD · Слабые ПК",
+      "author": "Noble Launcher",
+      "description": "Лёгкий набор для слабых Radeon: снижает нагрузку на процессор и видеопамять, помогает удержать 60 FPS.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/amd-low.png",
+      "icon": "qrc:/assets/noble-builds/icons/amd-low.png",
+      "archiveUrl": "qrc:/assets/noble-builds/amd-low.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1",
+        "v3.11.4",
+        "v1.0.10"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "intel-igpu",
+      "name": "Noble Intel iGPU",
+      "author": "Noble Launcher",
+      "description": "Для встроенной графики Intel: минимум лишней нагрузки на GPU, оптимизация чанков и памяти. Ноутбуки и мини-ПК.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/intel-igpu.png",
+      "icon": "qrc:/assets/noble-builds/icons/intel-igpu.png",
+      "archiveUrl": "qrc:/assets/noble-builds/intel-igpu.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1",
+        "v3.11.4",
+        "v1.0.10",
+        "2.3.0 (1.21-1.21.1)"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        },
+        {
+          "name": "2.3.0 (1.21-1.21.1)",
+          "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "max-fps",
+      "name": "Noble Max FPS",
+      "author": "Noble Launcher",
+      "description": "Максимальная частота кадров для соревновательных режимов: Sodium, Lithium, Krypton, ImmediatelyFast и тюнинг чанков.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/max-fps.png",
+      "icon": "qrc:/assets/noble-builds/icons/max-fps.png",
+      "archiveUrl": "qrc:/assets/noble-builds/max-fps.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Krypton 0.2.8",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1",
+        "v1.0.10",
+        "2.3.0 (1.21-1.21.1)",
+        "ThreadTweak 0.1.5"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Krypton 0.2.8",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        },
+        {
+          "name": "2.3.0 (1.21-1.21.1)",
+          "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar"
+        },
+        {
+          "name": "ThreadTweak 0.1.5",
+          "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/F4sjmsi3/threadtweak-fabric-0.1.5%2Bmc1.21.1.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "balanced-visuals",
+      "name": "Noble Баланс · Красиво + Быстро",
+      "author": "Noble Launcher",
+      "description": "Шейдеры и оптимизация вместе: Iris + Complementary Reimagined, Sodium и стабильный FPS для скриншотов и игры.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/balanced-visuals.png",
+      "icon": "qrc:/assets/noble-builds/icons/balanced-visuals.png",
+      "archiveUrl": "qrc:/assets/noble-builds/balanced-visuals.zip",
+      "mods": [
+        "Sodium 0.8.12 beta 1 for Fabric 1.21.1",
+        "Iris 1.8.14 Beta 1 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Complementary Reimagined"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.12 beta 1 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/s7adptIg/sodium-fabric-0.8.12-beta.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Iris 1.8.14 Beta 1 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Complementary Reimagined",
+          "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "low-end-laptop",
+      "name": "Noble Слабый ноутбук",
+      "author": "Noble Launcher",
+      "description": "Для ноутбуков с 4 ГБ RAM: низкая память, Dynamic FPS и оптимизация загрузки. Играть можно даже на встроенной графике.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/low-end-laptop.png",
+      "icon": "qrc:/assets/noble-builds/icons/low-end-laptop.png",
+      "archiveUrl": "qrc:/assets/noble-builds/low-end-laptop.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "2.4.1 (1.21.1)",
+        "Fabric-1.21.1-19.0.0.1",
+        "v3.11.4",
+        "v1.0.10"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "pvp",
+      "name": "Noble PvP",
+      "author": "Noble Launcher",
+      "description": "Низкая задержка и стабильный FPS для PvP: быстрый рендер, оптимизация сети и минимум фоновой нагрузки.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/pvp.png",
+      "icon": "qrc:/assets/noble-builds/icons/pvp.png",
+      "archiveUrl": "qrc:/assets/noble-builds/pvp.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Krypton 0.2.8",
+        "2.4.1 (1.21.1)",
+        "v1.0.10",
+        "2.3.0 (1.21-1.21.1)"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Krypton 0.2.8",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        },
+        {
+          "name": "2.4.1 (1.21.1)",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        },
+        {
+          "name": "2.3.0 (1.21-1.21.1)",
+          "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar"
+        }
+      ],
+      "beta": true
+    },
+    {
+      "id": "streaming",
+      "name": "Noble Стриминг",
+      "author": "Noble Launcher",
+      "description": "Для записи и стримов: стабильный FPS, запас памяти и оптимизация, которая не мешает OBS и голосовым чатам.",
+      "mcVersion": "1.21.1",
+      "loader": "Fabric",
+      "loaderVersion": "",
+      "banner": "qrc:/assets/noble-builds/banners/streaming.png",
+      "icon": "qrc:/assets/noble-builds/icons/streaming.png",
+      "archiveUrl": "qrc:/assets/noble-builds/streaming.zip",
+      "mods": [
+        "Sodium 0.8.13 for Fabric 1.21.1",
+        "Lithium 0.15.4 for Fabric",
+        "ferritecore-7.0.3-fabric",
+        "5.25.1+mc1.21.1",
+        "ImmediatelyFast 1.6.15",
+        "1.11.3-1.21.1 - Fabric",
+        "[1.21.1] Fabric API 0.116.17+1.21.1",
+        "Krypton 0.2.8",
+        "v3.11.4",
+        "Fabric-1.21.1-19.0.0.1",
+        "v1.0.10"
+      ],
+      "modLinks": [
+        {
+          "name": "Sodium 0.8.13 for Fabric 1.21.1",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Lithium 0.15.4 for Fabric",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-fabric",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "5.25.1+mc1.21.1",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "ImmediatelyFast 1.6.15",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+        },
+        {
+          "name": "1.11.3-1.21.1 - Fabric",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
+        },
+        {
+          "name": "[1.21.1] Fabric API 0.116.17+1.21.1",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+        },
+        {
+          "name": "Krypton 0.2.8",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        },
+        {
+          "name": "v3.11.4",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+        },
+        {
+          "name": "Fabric-1.21.1-19.0.0.1",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "v1.0.10",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wUYbHzXF/moreculling-fabric-1.21.1-1.0.10.jar"
+        }
+      ],
+      "beta": true
+    }
+  ]
+}
