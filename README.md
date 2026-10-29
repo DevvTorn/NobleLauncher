@@ -3,7 +3,7 @@
   <h1>Noble Launcher</h1>
   <p><b>Современный, быстрый и безопасный лаунчер для Minecraft</b></p>
 
-  [![Версия](https://img.shields.io/badge/Version-2.9.0-red?style=for-the-badge&logo=github)](https://github.com/AINUR4772/Noble/releases)
+  [![Версия](https://img.shields.io/badge/Version-2.9.0-red?style=for-the-badge&logo=github)](https://github.com/DevvTorn/NobleLauncher/releases)
   [![Платформа](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://noblelauncher.ru/)
   [![Лицензия](https://img.shields.io/badge/License-All_Rights_Reserved-black?style=for-the-badge)](#-правовая-информация-и-лицензия)
 </div>
@@ -33,7 +33,7 @@
 
 ## 🚀 Как начать играть?
 
-1.  Скачайте последний установщик `NobleLauncherSetup-2.9.0.exe` со страницы [Releases](https://github.com/AINUR4772/Noble/releases) или с нашего [сайта](https://noblelauncher.ru/).
+1.  Скачайте последний установщик `NobleLauncherSetup-2.9.0.exe` напрямую по [этой ссылке](https://github.com/DevvTorn/NobleLauncher/releases/download/Version-2/NobleLauncherSetup-2.9.0.exe) или с нашего [сайта](https://noblelauncher.ru/).
 2.  Установите лаунчер и запустите его.
 3.  Авторизуйтесь через **Ely.by** или создайте **Offline**-аккаунт.
 4.  Выберите готовую сборку (например, одну из 10 оптимизаций) или создайте свою, настройте память и нажмите **«Запуск»**.
@@ -50,11 +50,11 @@
 
 > ⚠️ **ВНИМАНИЕ: ИСХОДНЫЙ КОД ДОСТУПЕН ТОЛЬКО ДЛЯ ОЗНАКОМЛЕНИЯ (SOURCE AVAILABLE).**
 
-**Copyright (c) 2025 Noble Launcher. All rights reserved.**
+**Copyright (c) 2025 Ainur (DevvTorn). All rights reserved.**
 
 Данный репозиторий НЕ является Open Source в понимании OSI. Мы выложили исходный код, чтобы вы могли убедиться в его безопасности и чистоте. 
 
-*   **Вам РАЗРЕШЕНО:** Просматривать код, изучать архитектуру, проверять на наличие вредоносного ПО, делать скриншоты для обсуждения.
+*   **Вам РАЗРЕШЕНО:** Просматривать код, изучать архитектуру, проверять на наличие вредоносного ПО.
 *   **Вам ЗАПРЕЩЕНО (без письменного разрешения авторов):** 
     *   Создавать форки (Fork) с целью модификации и публикации.
     *   Копировать, изменять или распространять любые части исходного кода.
@@ -74,13 +74,14 @@
 
 ## 👨‍💻 Команда
 
-*   **DevvTorn** — Основатель / Разработчик
+*   **DevvTorn (Ainur)** — Основатель / Разработчик
 *   **Volenvi** — Разработчик / Дизайнер
 
 ## 🔗 Полезные ссылки
 
 *   🌐 **Наш сайт:** [noblelauncher.ru](https://noblelauncher.ru/)
 *   ✈️ **Telegram (обновления):** [t.me/noblelauncher](https://t.me/noblelauncher)
+*   💻 **GitHub:** [DevvTorn/NobleLauncher](https://github.com/DevvTorn/NobleLauncher)
 
 ---
 <div align="center">
